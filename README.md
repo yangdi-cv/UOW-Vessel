@@ -7,5 +7,6 @@ We introduce UOW-Vessel, a new benchmark dataset of high-resolution optical sate
  <img src="https://github.com/ltb801/UOW-Vessel/blob/main/image/visualization.jpg?raw=true" height="270"/>
 
 ## Dataset Download 
-[Part 1 (Images 001 to 500](https://drive.google.com/drive/folders/1e_zKYaW-Dib8PlFzB2y0dddKkYV2fjNJ?usp=sharing)
- 
+- Part 1: [Images 001 to 500](https://drive.google.com/drive/folders/1e_zKYaW-Dib8PlFzB2y0dddKkYV2fjNJ?usp=sharing)
+- Part 2: Images 501 to 2000
+- Part 3: Images 2001 to 3500
