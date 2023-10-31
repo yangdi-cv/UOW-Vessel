@@ -22,8 +22,3 @@ The vessel categories present in our dataset include: Aircraft Carrier (AC), Lan
 ## Dataset Examples
  <img src="https://github.com/ltb801/UOW-Vessel/blob/main/image/visualization.jpg?raw=true" height="270"/>
 
-## Dataset Download 
-Each part in the dataset containes two folders: *images* and *labels*. 
-- Part 1: [Images 001 to 500](https://drive.google.com/drive/folders/1e_zKYaW-Dib8PlFzB2y0dddKkYV2fjNJ?usp=sharing)
-- Part 2: Images 501 to 2000
-- Part 3: Images 2001 to 3500
