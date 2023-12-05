@@ -19,6 +19,10 @@ The vessel categories present in our dataset include: Aircraft Carrier (AC), Lan
 | Civilian | 24,407 | 68.56% |
 | **Total** | **35,598** | **100.00%** |
 
+## Download
+
+Link: https://documents.uow.edu.au/~phung/UOW-Vessel.html
+
 ## Dataset Examples
- <img src="https://github.com/ltb801/UOW-Vessel/blob/main/image/visualization.jpg?raw=true" height="270"/>
+ <img src="https://github.com/yangdi-cv/UOW-Vessel/blob/main/image/visualization.jpg?raw=true" height="270"/>
 
